@@ -1,6 +1,8 @@
 ## Projeto POKEDEX <br/>
 ####  Este projeto tem como finalidade criar habilidades com <b>Javascript</b> e requisiçẽs <b>http</b>.<br/>
-A API que será utilizada neste curso é [pokeapi](https://pokeapi.co/).
+A API que será utilizada neste projeto é [pokeapi](https://pokeapi.co/).
+
+<img src="https://media.giphy.com/media/aOQWsbcaW3pKTzLEel/giphy.gif"><br/>
 
 ## Tarefas
 
